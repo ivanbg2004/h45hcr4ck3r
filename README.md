@@ -12,7 +12,7 @@ Hash Cracker is a lightweight Python tool developed by **OD&H** to crack hashed 
 1. Clone the repository:
    ```sh
    git clone https://github.com/ivanbg2004/h45hcr4ck3r.git
-   cd hash-cracker
+   cd h45hcr4ck3r
    ```
 2. Install Python (if not already installed):
    ```sh
@@ -23,7 +23,7 @@ Hash Cracker is a lightweight Python tool developed by **OD&H** to crack hashed 
 ## Usage
 Run the script and provide the necessary inputs:
 ```sh
-python3 hash_cracker.py
+python3 h45hcr4ck3r.py
 ```
 Then enter:
 - The hash value to crack
